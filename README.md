@@ -1,4 +1,4 @@
-# UHF 一休机( 21N)读写操作流程
+# UHF 一体机( 21N)读写操作流程
 
 <!-- <details> -->
 
@@ -7,7 +7,7 @@
 ## 设置被动模式,进行读写
 
 1. 打开 2.9 版本配置软件.exe([下载地址](https://github.com/rosscarsen/HUF-21N/releases/download/1.0.0/set.zip))
-2. 计卡器状态 ![alt text](markdown-images/QQ_1723168594509.png)
+2. 读卡器状态 ![alt text](markdown-images/QQ_1723168594509.png)
 3. 前后缀数据输入 ![alt text](markdown-images/QQ_1723168641742.png)
 4. 串口功能 ![alt text](markdown-images/QQ_1723168694686.png)
 5. 检查驱动
