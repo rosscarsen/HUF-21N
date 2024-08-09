@@ -6,7 +6,7 @@
 
 ## 设置被动模式,进行读写
 
-1. 打开 2.9 版本配置软件.exe
+1. 打开 2.9 版本配置软件.exe([下载地址](https://github.com/rosscarsen/HUF-21N/blob/main/%E9%85%8D%E7%BD%AE%E8%BD%AF%E4%BB%B6-2.9%E7%89%88%E6%9C%AC.zip))
 2. 计卡器状态 ![alt text](markdown-images/QQ_1723168594509.png)
 3. 前后缀数据输入 ![alt text](markdown-images/QQ_1723168641742.png)
 4. 串口功能 ![alt text](markdown-images/QQ_1723168694686.png)
