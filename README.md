@@ -1,10 +1,12 @@
 # UHF 一体机( 21N)读写操作流程
 
+## 操作前把一体机 usb、com 线与电脑连接
+
 <!-- <details> -->
 
 <!-- <summary>设置被动模式,进行读写</summary> -->
 
-## 设置被动模式,进行读写
+### 设置被动模式,进行读写
 
 1. 打开 2.9 版本配置软件.exe([下载地址](https://github.com/rosscarsen/HUF-21N/releases/download/1.0.0/set.zip))
 2. 读卡器状态 ![alt text](markdown-images/QQ_1723168594509.png)
@@ -20,7 +22,7 @@
 
 <!-- </details> -->
 
-## 关闭被动模
+### 关闭被动模
 
 1. 如当前已运行 RFID_Reader_Csharp.exe，断开连接
 2. 打开 2.9 版本配置软件.exe
